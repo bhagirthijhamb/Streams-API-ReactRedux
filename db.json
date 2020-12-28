@@ -1,0 +1,39 @@
+{
+  "streams": [
+    {
+      "title": "abc",
+      "description": "xyz",
+      "id": 1
+    },
+    {
+      "title": "abc",
+      "description": "xyz",
+      "id": 2
+    },
+    {
+      "title": "abc1",
+      "description": "xyz1",
+      "id": 3
+    },
+    {
+      "title": "abc1",
+      "description": "xyz1",
+      "id": 4
+    },
+    {
+      "title": "abc11",
+      "description": "xyz11",
+      "id": 5
+    },
+    {
+      "title": "abc11",
+      "description": "xyz11",
+      "id": 6
+    },
+    {
+      "title": "asda",
+      "description": "dfd",
+      "id": 7
+    }
+  ]
+}
